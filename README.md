@@ -9,14 +9,14 @@ It uses **structures (`struct`)** to store details about each hospital, includin
 - **Number of doctors**
 - **Number of patients**
 
-## Features
+Features
 1. **Find the hospital with the most patients** and display its details.
 2. **Identify the oldest hospital** based on its establishment date.
 3. **Count the hospitals** that have at least 50 doctors **and** an area greater than 1000 units.
 4. **Find the hospital with the most doctors** and display its details.
 5. **Display all hospital records** entered by the user.
 
-## How it Works
+How it Works
 - The program dynamically allocates memory for the hospital records.
 - The user enters the data for each hospital.
 - The program processes the data to produce the above results.
